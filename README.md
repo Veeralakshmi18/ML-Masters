@@ -1,3 +1,0 @@
-# ML-Masters
-
-## iNeuron assignments
